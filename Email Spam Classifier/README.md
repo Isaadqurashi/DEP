@@ -149,7 +149,7 @@ Download
 
 ## Usage
 
-Run the Jupyter Notebook `Spam SMS Detection.ipynb` to see the entire workflow and test the classifier on new messages.
+Run the Jupyter Notebook `Email Spam Classifier.ipynb` to see the entire workflow and test the classifier on new messages.
 
 ## Contributing
 
