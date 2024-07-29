@@ -39,6 +39,10 @@ This project is a machine learning application for classifying SMS messages as s
 
 The dataset used for this project is `Spam SMS Collection.csv`, which contains SMS messages labeled as spam or ham (non-spam).
 
+Download 
+[Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+
+
 ## Data Preprocessing
 
 1. Load the dataset:
@@ -153,7 +157,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [LICENSE](ttps://github.com/Isaadqurashi/DEP/blob/main/Email%20Spam%20Classifier/LICENSE) for more details.
 
 ## Appendices
 
