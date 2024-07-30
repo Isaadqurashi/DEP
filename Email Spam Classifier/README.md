@@ -20,7 +20,7 @@ This project is a machine learning application for classifying SMS messages as s
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Isaadqurashi/DEP/tree/main/Email%20Spam%20Classifier
+    git clone https://github.com/Isaadqurashi/DEP/tree/main/Email%20Spam%20Classifier.git
     cd spam-sms-classifier
     ```
 

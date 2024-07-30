@@ -24,7 +24,7 @@ This project is a simple implementation of a TicTacToe game with a graphical use
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/Isaadqurashi/DEP/tree/main/TicTacToe(MinMax)
+    git clone https://github.com/Isaadqurashi/DEP/tree/main/TicTacToe(MinMax).git
     cd tictactoe-minimax
     ```
 
